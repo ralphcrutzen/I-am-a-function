@@ -1,5 +1,5 @@
 # I am a function
-In this little game you use an ultrasonic distance sensor (connected to an Arduino) to draw a given graph of a mathematical function on the screen. Move back and forth to let the Nyancat follow the path of the graph on the screen. Proceed to the next level if your score is larger than 80%.
+In this little game you use an ultrasonic distance sensor (connected to an Arduino) to draw a given graph of a mathematical function on the screen. Move back and forth to let the Nyancat follow the path of the graph on the screen. Proceed to the next level if your score is greater than 80%.
 
 ![Screenshot](https://raw.githubusercontent.com/ralphcrutzen/I-am-a-function/master/screenshot.png)
 
